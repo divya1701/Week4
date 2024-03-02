@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Mern/static/css/main.e106a6f8.css",
-    "main.js": "/Mern/static/js/main.b2236d63.js",
-    "static/js/453.cf6c5dff.chunk.js": "/Mern/static/js/453.cf6c5dff.chunk.js",
-    "static/media/logo.svg": "/Mern/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Mern/index.html",
-    "main.e106a6f8.css.map": "/Mern/static/css/main.e106a6f8.css.map",
-    "main.b2236d63.js.map": "/Mern/static/js/main.b2236d63.js.map",
-    "453.cf6c5dff.chunk.js.map": "/Mern/static/js/453.cf6c5dff.chunk.js.map"
+    "main.css": "/Week4/static/css/main.e106a6f8.css",
+    "main.js": "/Week4/static/js/main.92c27860.js",
+    "static/js/453.cf6c5dff.chunk.js": "/Week4/static/js/453.cf6c5dff.chunk.js",
+    "static/media/logo.svg": "/Week4/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Week4/index.html",
+    "main.e106a6f8.css.map": "/Week4/static/css/main.e106a6f8.css.map",
+    "main.92c27860.js.map": "/Week4/static/js/main.92c27860.js.map",
+    "453.cf6c5dff.chunk.js.map": "/Week4/static/js/453.cf6c5dff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e106a6f8.css",
-    "static/js/main.b2236d63.js"
+    "static/js/main.92c27860.js"
   ]
 }
